@@ -3,7 +3,7 @@ import homeSrc from '../../../public/img/performance.jpg'
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'performance'
+  title: 'performance yesterday'
 }
 
 export default function Page() {
