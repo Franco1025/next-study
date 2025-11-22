@@ -3,11 +3,11 @@ import homeSrc from '../../../public/img/performance.jpg'
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'performance yesterday'
+  title: 'performance'
 }
 
 export default function Page() {
   return (
-    <Hero imgUrl={homeSrc} altText='performance' content='performance'/>
+    <Hero imgUrl={homeSrc} altText='performance' content='performance you are beautiful'/>
   )
 }
